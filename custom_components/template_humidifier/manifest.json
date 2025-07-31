@@ -1,5 +1,5 @@
 {
-  "domain": "humidifier_template",
+  "domain": "template_humidifier",
   "name": "Humidifier Template",
   "documentation": "https://github.com/tsunglung/hass_humidifier_template",
   "requirements": [],
